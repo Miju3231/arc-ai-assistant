@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 
-const ANTHROPIC_API_KEY = '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';
+const ANTHROPIC_API_KEY = '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';
 
 const SYSTEM_PROMPT = `You are ArcAI, an intelligent personal assistant specialized in the Arc blockchain network — Circle's Layer-1 stablecoin-native blockchain (Chain ID: 5042002).
 
